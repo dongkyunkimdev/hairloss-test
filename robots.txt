@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: hairloss-test.cf/sitemap.xml
