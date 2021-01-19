@@ -9,7 +9,6 @@ Hairloss-test는 Google Teachable machine을 사용한 머신러닝 기반 탈�
 언어
 * HTML5
 * CSS3
-* JQUERY
 
 운영체제
 * Windows 10
